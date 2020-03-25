@@ -1,6 +1,8 @@
-Race,
-Life’s a race
+﻿Race,
+Life's a race
 That I am gonna win
 Yes, I am gonna win
 And I’ll light the fuse
 And I’ll never lose
+And I choose to survive
+Whatever it takes
